@@ -1,0 +1,15 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "C2UdacityProjectofPrem"
+    },
+    {
+        "ParameterKey": "S3CodeBucketName",
+        "ParameterValue": "udacity-demo-12"
+    } ,
+    {
+        "ParameterKey": "S3CodeArchive",
+        "ParameterValue": "udacity-starter-website.zip"
+    }
+   
+]
